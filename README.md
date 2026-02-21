@@ -8,5 +8,5 @@ A beautiful quran reading app built with Streamlit.
 ## Run locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run quran_gold_app.py
 ```
